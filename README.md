@@ -94,7 +94,7 @@
   <a href="https://instagram.com/lvyza_">
     <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=60A5FA" />
   </a>
-  <a href="https://www.linkedin.com/in/luisa-padillon">
+  <a href=https://www.linkedin.com/in/luisa-padillon-484725369/>
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
   </a>
 </p>
