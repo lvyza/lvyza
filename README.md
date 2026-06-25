@@ -1,14 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="Header banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="Header banner" />
 </p>
 
-
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/34ed65b2-faa5-445d-89a2-5f2d0478c050" width="230" alt="closing image" />
+</p>
 <h1 align="center">Hi, I'm Luisa!</h1>
-<p align="center"> IS Student • QA in Progress </p>
+<p align="center"> IS Student • QA in Progress • Pangasinan, Philippines </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Quality+is+everyone%E2%80%99s+responsibility+-+W.+Edwards+Deming;Good+code+is+its+own+best+documentation.+-+Steve+McConnell)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="divider" /> </p>
 
-<h2>🫧 About Me</h2>
+<h2>🫆 About Me</h2>
 
 <p align="center">
   I’m an Information Systems student with a growing interest in <b>Software Quality Assurance</b> and <b>software testing</b>. I enjoy learning how systems work, identifying areas for improvement, and building solutions that are reliable, functional, and user-friendly.
@@ -49,7 +56,6 @@
 
 <h2>💠 Github Stats</h2>
 
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lvyza&show_icons=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=60A5FA&border_color=1E3A8A" />
   &nbsp;&nbsp;&nbsp;
@@ -57,10 +63,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="divider" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvyza&background=0F172A&stroke=60A5FA&ring=60A5FA&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=E2E8F0&dates=94A3B8&border=60A5FA" />
 </p>
 
-<h2>🌊 Contribution</h2>
+<h2>🪼 Contribution</h2>
 
 <p align="center">
   <picture>
@@ -74,13 +80,38 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="divider" />
 </p>
 
-<h2 align="center">💙 ⋆.˚ Thanks for stopping by ˚.⋆ 💙</h2>
+<h2>🌀 Let's Connect!</h2>
 
-<p align="center">
-  Still learning, still growing, and always open to new opportunities and experiences.
+<p><i>Feel free to reach out for collaborations, learning opportunities, or just to talk about tech!</i></p> 
+  
+<p>
+  <a href="https://github.com/lvyza">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" />
+  </a>
+  <a href="https://www.facebook.com/padillonluisaa">
+    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=60A5FA" />
+  </a>
+  <a href="https://instagram.com/lvyza">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=60A5FA" />
+  </a>
+  <a href="https://www.linkedin.com/in/luisa-padillon">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:87CEFA,50:1E90FF,100:0F52BA&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="divider" />
 </p>
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/34ed65b2-faa5-445d-89a2-5f2d0478c050" width="220" alt="closing image" />
+</p>
+
+<h2 align="center">💙 Thanks for stopping by! 💙</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F52BA,50:1E90FF,100:87CEFA&section=footer" width="100%" alt="Footer banner" />
+</p>
+
+
 
