@@ -14,13 +14,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github contribution snake
+      - name: Generate github-contribution-grid-snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: lvyza
           outputs: |
-            dist/github-snake.svg?color_snake=#60A5FA&color_dots=#DBEAFE,#BFDBFE,#93C5FD,#60A5FA,#1D4ED8
-            dist/github-snake-dark.svg?color_snake=#60A5FA&color_dots=#0F172A,#1E3A8A,#2563EB,#60A5FA,#93C5FD
+            dist/github-snake.svg?color_snake=%2360A5FA&color_dots=%230F172A,%231E3A8A,%232563EB,%233B82F6,%2393C5FD
+            dist/github-snake-dark.svg?color_snake=%2360A5FA&color_dots=%230F172A,%231E3A8A,%232563EB,%233B82F6,%2393C5FD
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
