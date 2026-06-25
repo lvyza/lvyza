@@ -63,7 +63,11 @@
 <h2>🌊 Contribution</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lvyza/lvyza/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lvyza/lvyza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lvyza/lvyza/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/lvyza/lvyza/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
