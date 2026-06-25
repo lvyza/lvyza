@@ -91,7 +91,7 @@
   <a href="https://www.facebook.com/padillonluisaa">
     <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=60A5FA" />
   </a>
-  <a href="https://instagram.com/lvyza">
+  <a href="https://instagram.com/lvyza_">
     <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=60A5FA" />
   </a>
   <a href="https://www.linkedin.com/in/luisa-padillon">
