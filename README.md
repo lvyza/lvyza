@@ -71,6 +71,16 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F52BA,50:1E90FF,100:87CEFA&section=header" width="100%" alt="divider" />
+</p>
+
+<h2 align="center">💙 ⋆.˚ Thanks for stopping by ˚.⋆ 💙</h2>
+
+<p align="center">
+  Still learning, still growing, and always open to new opportunities and experiences.
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:87CEFA,50:1E90FF,100:0F52BA&section=footer" width="100%" alt="Footer banner" />
 </p>
 
