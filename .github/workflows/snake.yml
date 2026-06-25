@@ -14,11 +14,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake
+      - name: Generate github contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: lvyza
-          outputs:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
             dist/github-snake.svg?color_snake=#60A5FA&color_dots=#DBEAFE,#BFDBFE,#93C5FD,#60A5FA,#1D4ED8
             dist/github-snake-dark.svg?color_snake=#60A5FA&color_dots=#0F172A,#1E3A8A,#2563EB,#60A5FA,#93C5FD
 
