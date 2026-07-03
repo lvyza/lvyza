@@ -57,8 +57,8 @@
 <h2>💠 Github Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lvyza&show_icons=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=60A5FA&border_color=1E3A8A" />
-  &nbsp;&nbsp;&nbsp;
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=lvyza&show_icons=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=60A5FA&border_color=1E3A8A" />
+  &nbsp;&nbsp;&nbsp; -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvyza&layout=compact&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&border_color=1E3A8A" />
 </p>
 
